@@ -463,6 +463,12 @@ textarea {
   cursor: pointer;
 }
 
+.label {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
 .button-submit:hover,
 .button-submit:focus {
   background-color: rgba(24, 140, 232, 1);
